@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "91135811836",
+    "firebase_url": "https://indoardatabase.firebaseio.com",
+    "project_id": "indoardatabase",
+    "storage_bucket": "indoardatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91135811836:android:f39c0a993618fc03",
+        "android_client_info": {
+          "package_name": "co.indoar.indoar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91135811836-9fkeor14skrvag7a7r5lujvqeun3nug8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4CCN50WOrVRpwsgmN-tR9W4iogyWBLhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91135811836-9fkeor14skrvag7a7r5lujvqeun3nug8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "91135811836-1d5pa252gh3cmfdbeesf59ck3iu56fdu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.indoar.indoar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

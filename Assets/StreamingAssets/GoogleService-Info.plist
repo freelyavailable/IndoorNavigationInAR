@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>91135811836-1d5pa252gh3cmfdbeesf59ck3iu56fdu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.91135811836-1d5pa252gh3cmfdbeesf59ck3iu56fdu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBA7Cce_U9Tk7PJKRgIhOf7XRyowCtkJsM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>91135811836</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.indoar.indoar</string>
+	<key>PROJECT_ID</key>
+	<string>indoardatabase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>indoardatabase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:91135811836:ios:f39c0a993618fc03</string>
+	<key>DATABASE_URL</key>
+	<string>https://indoardatabase.firebaseio.com</string>
+</dict>
+</plist>
